@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Torgos-Theme-128k.ogg-74529046acfb611e22a4c11466564536.oggstr"
+
+[deps]
+
+source_file="res://Torgos-Theme-128k.ogg"
+dest_files=[ "res://.import/Torgos-Theme-128k.ogg-74529046acfb611e22a4c11466564536.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
